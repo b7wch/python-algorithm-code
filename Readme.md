@@ -1,4 +1,5 @@
-说明
+# Python Algorithm Learning Code
 =============================
-1. algorithm 一些简单的算法题
-2. concurrence 并发
+
+## Abstract
+Just for record in algorthm learning by python.
